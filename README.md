@@ -1,5 +1,5 @@
 # RNA-seq-data-analysis
-This R script processes gene expression data to perform various analyses, including statistical tests, data transformations, and visualizations. It aims to assess differential gene expression between patient groups, perform PCA (Principal Component Analysis), and generate relevant plots to explore relationships between variables like diagnosis, age, and gender.
+This R script processes analysis of transcriptome sequencing data; RNA-seq data, to perform various analyses, including statistical tests, data transformations, and visualizations. It aims to assess differential gene expression between patient groups, perform PCA (Principal Component Analysis), and generate relevant plots to explore relationships between variables like diagnosis, age, and gender.
 
 
 Reads Input Data: Loads gene expression data and metadata from text files into matrices.
